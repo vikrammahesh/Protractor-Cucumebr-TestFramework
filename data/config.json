@@ -1,0 +1,9 @@
+{
+  "test":{
+    "appUrl": "https://angularjs.org/"
+  },
+
+  "prod":{
+    "appUrl": "https://angularjs.org/"
+  }
+}

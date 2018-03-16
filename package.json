@@ -1,0 +1,24 @@
+{
+  "name": "protractorcucumber",
+  "version": "1.0.0",
+  "description": "e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {},
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber-html-reporter": "^2.0.0",
+    "protractor": "^5.1.2",
+    "base-64": "^0.1.0",
+    "fs-extra": "^0.30.0",
+    "cucumber": "^2.3.1",
+    "grunt": "^1.0.2",
+    "grunt-protractor-runner": "^5.0.0",
+    "protractor-cucumber-framework": "^4.2.0"
+  }
+}
